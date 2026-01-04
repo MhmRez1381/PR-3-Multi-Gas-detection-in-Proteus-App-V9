@@ -53,7 +53,7 @@ Additionally, there is a 'file' folder containing the project proposal, business
 - Monitor LCD, LEDs, buzzer, and Serial output.
 Screenshots
 Circuit diagram in Proteus:
-<img width="1465" height="889" alt="propro" src="https://github.com/user-attachments/assets/a9221ae2-9dad-4a08-beb1-0ac4f124c2e1" />
+<img width="1465" height="889" alt="propro" src="https://github.com/user-attachments/assets/2c69bf3a-945f-4437-92d8-e96c2923d2f0" />
 Contributing
 This is a private project maintained for personal learning and development.
 License
