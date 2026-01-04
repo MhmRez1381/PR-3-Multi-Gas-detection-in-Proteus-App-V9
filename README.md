@@ -54,7 +54,7 @@ Additionally, there is a 'file' folder containing the project proposal, business
 Screenshots
 Circuit diagram in Proteus:
 <img width="1465" height="889" alt="propro" src="https://github.com/user-attachments/assets/2c69bf3a-945f-4437-92d8-e96c2923d2f0" />
-Contributing
+## Contributing
 This is a private project maintained for personal learning and development.
-License
+## License
 This project is private and not licensed for public use, distribution, or modification.
