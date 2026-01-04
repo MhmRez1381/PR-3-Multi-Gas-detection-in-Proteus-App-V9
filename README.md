@@ -27,7 +27,7 @@ Additionally, there is a 'file' folder containing the project proposal, business
 - **Simulation Ready**: Designed for Proteus 9, with all sensor libraries included.
 ## Technologies Used
 - **Hardware/Simulation**: Arduino Uno, MQ Gas Sensors (MQ-2 to MQ-9, MQ-135), LCD I2C (16x2), LEDs, Buzzer, Resistors (e.g., 0.1k, 4.7k).
-- **Software**: Proteus 9 for circuit simulation (downloaded from https://soft98.ir/software/engineering/3535-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-proteus.html), Arduino IDE for coding and compiling (downloaded from https://www.yasdl.com/134583/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-arduino.html) (includes .hex file for upload).
+- **Software**: Proteus 9 for circuit simulation, Arduino IDE for coding and compiling (includes .hex file for upload).
 - **Programming**: C++ with Arduino libraries (Wire.h for I2C, LiquidCrystal_I2C.h for LCD).
 - **Libraries**:
   - MQ Sensor Libraries for Proteus: Downloaded from [The Engineering Projects](https://www.theengineeringprojects.com/2016/05/gas-sensor-library-proteus.html) (for default MQ sensors).
@@ -36,7 +36,7 @@ Additionally, there is a 'file' folder containing the project proposal, business
 1. **Download Libraries**:
    - Get MQ sensor libraries from [The Engineering Projects](https://www.theengineeringprojects.com/2016/05/gas-sensor-library-proteus.html).
    - Get MQ-135 library from [GitHub](https://github.com/satyamkr80/MQ135-GAS-Sensor-Library-Proteus).
-   - Place the library folders in your Proteus libraries directory (usually `C:\ProgramData\Labcenter Electronics\Proteus 8 Professional\LIBRARY` or similar).
+   - Place the library folders in your Proteus libraries directory (usually `C:\ProgramData\Labcenter Electronics\Proteus 9 Professional\LIBRARY` or similar).
 2. **Clone the Repository**:
 3. **Open in Proteus**:
 - Launch Proteus 9.
@@ -54,9 +54,9 @@ Additionally, there is a 'file' folder containing the project proposal, business
 Screenshots
 Circuit diagram in Proteus:
 
-<img width="1465" height="889" alt="propro" src="https://github.com/user-attachments/assets/2c69bf3a-945f-4437-92d8-e96c2923d2f0" />
+<img width="1465" height="889" alt="propro" src="https://github.com/user-attachments/assets/5521a7d4-5c96-45c8-8497-1c6ccb1f4e83" />
 
 ## Contributing
 This is a private project maintained for personal learning and development.
 ## License
-This project is private and not licensed for public use, distribution, or modification.
+This project is private and not licensed for public use, distribution, or m
